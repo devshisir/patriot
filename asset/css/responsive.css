@@ -1,0 +1,289 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    #banar_home {
+        padding: 200px 0px;
+    }
+    #banar_home .banar_slider_for .banar_slider_for_item > h3 {
+        font-size: 36px;
+        line-height: 48px;
+        width: 80%;
+    }
+    #banar_home .banar_slider_for .banar_slider_for_item > p {
+        width: 90%;
+    }
+    #banar_home .banar_slider_nav {
+        width: 69%;
+    }
+    #subpage_banar .subpage_banar_container .subpage_banar_image_3 {
+        padding-right: 0px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1300px) {
+   
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    #main_header {
+        position: relative;
+    }
+    #banar_home {
+        padding: 100px 0px;
+    }
+    #banar_home .banar_slider_for .banar_slider_for_item > h3 {
+        font-size: 31px;
+        font-weight: 600;
+        line-height: 43px;
+        width: 82%;
+    }
+    #banar_home .banar_slider_nav {
+        width: 60%;
+        position: relative;
+        left: 40%;
+    }
+    #banar_home .banar_slider_for .banar_slider_for_item ul li {
+        margin-bottom: 10px;
+    }
+    #home_feater .home_feater_main .home_feater_main_item h3 {
+        font-size: 17px;
+        line-height: 22px;
+        width: 100%;
+        position: relative;
+        top: 7px;
+    }
+    #home_feater .home_feater_main .app_feater_home_bottom .app_feater_home_bottom_content h2 {
+        font-size: 33px;
+        width: 72%;
+        line-height: 42px;
+    }
+    #app_screen .app_screen_main .app_screen_mobile img {
+        width: 230px;
+        top: 4px;
+        position: relative;
+    }
+    #home_keayfeater .home_keayfeater_cotent > h3 {
+        font-size: 31px;
+        width: 90%;
+        line-height: 39px;
+    }
+    #home_keayfeater .home_keayfeater_cotent_bottom .home_keayfeater_cotent_bottom_item p {
+        font-size: 14px;
+    }
+    #faq_area .faq_area_title h3 {
+        font-size: 32px;
+    }
+    #how_works_area .how_works_area_item .how_works_area_item_content h3 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    #testmonial .testmonial_main .testmonial_main_slider .testmonial_main_slider_item {
+        padding-right: 0px;
+        padding: 0px 22px;
+    }
+    #blog .blog_title h3 {
+        font-size: 30px;
+        width: 45%;
+        line-height: 41px;
+    }
+    #blog .blog_main .blog_main_item .blog_content a {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    #pricing_table .pricing_table_right {
+        padding-left: 0px;
+    }
+    #how_works_video .how_works_video_title h3 {
+        font-size: 30px;
+        width: 71%;
+    }
+    #app_screen .app_screen_title p {
+        width: 56%;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #main_header {
+        position: relative;
+    }
+    #main_header .main_header_menu ul li a {
+        font-size: 14px;
+        padding: 20px 4px;
+        margin-right: 7px;
+    }
+    #main_header .main_header_quote a {
+        padding: 10px 0px;
+        font-size: 13px;
+    }
+    #banar_home{
+        padding: 50px 0px;
+    }
+    #banar_home .banar_slider_for .banar_slider_for_item > h3 {
+        font-size: 29px;
+        line-height: 41px;
+    }
+    #banar_home .banar_slider_for .banar_slider_for_item > p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    #banar_home .banar_slider_nav {
+        position: relative;
+        bottom: -20px;
+        left: 21%;
+        width: 79%;
+    }
+    .banar_imgae.text-right {
+        position: relative;
+        top: -43px;
+    }
+    #banar_home .banar_slider_for .banar_slider_for_item form .banar_slider_for_item_form_box input {
+        width: 110%;
+    }
+    #banar_home .banar_slider_for .banar_slider_for_item form .banar_slider_for_item_form_box button {
+        right: -20px;
+    }
+    #banar_home .banar_slider_for .banar_slider_for_item ul li {
+        margin-bottom: 10px;
+    }
+    #home_feater .home_feater_main .home_feater_main_item span {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        font-size: 23px;
+        margin-right: 10px;
+        font-size: 15px !important;
+    }
+    #home_feater .home_feater_main .home_feater_main_item h3 {
+        font-weight: 600;
+        font-size: 12px;
+        color: #233d63;
+        line-height: 17px;
+        width: 100%;
+        position: relative;
+        top: 4px;
+        left: 7px;
+    }
+    #home_feater .home_feater_title h3 {
+        font-size: 22px;
+        margin-top: 5px;
+    }
+    #home_feater .home_feater_main .app_feater_home_bottom .app_feater_home_bottom_content h2 {
+        font-size: 25px;
+        width: 95%;
+        line-height: 33px;
+    }
+    #home_feater .home_feater_main .app_feater_home_bottom .app_feater_home_bottom_content p {
+        width: 95%;
+        font-size: 14px;
+    }
+    #app_screen .app_screen_title p {
+        width: 74%;
+        line-height: 27px;
+    }
+    #app_screen .app_screen_main .app_screen_mobile img {
+        width: 148px;
+        position: relative;
+        top: 5px;
+    }
+    #home_keayfeater .home_keayfeater_cotent > h3 {
+        font-size: 23px;
+        width: 90%;
+        line-height: 34px;
+    }
+    #home_keayfeater .home_keayfeater_cotent > p {
+        font-size: 14px;
+        width: 100%;
+        line-height: 24px;
+    }
+    #home_keayfeater .home_keayfeater_cotent_bottom .home_keayfeater_cotent_bottom_item span {
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+        font-size: 18px;
+    }
+    #home_keayfeater .home_keayfeater_cotent_bottom .home_keayfeater_cotent_bottom_item p {
+        margin-top: 10px;
+        font-size: 13px;
+    }
+    #faq_area .faq_area_title h3 {
+        margin: 0 auto;
+        margin-top: 10px;
+        font-size: 27px;
+        width: 52%;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 767px) {
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
